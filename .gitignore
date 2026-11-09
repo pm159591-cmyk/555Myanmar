@@ -8,3 +8,11 @@ local.properties
 *.jks
 *.keystore
 cocos2d-x-local-backup/
+
+# Cocos2d-x build files
+**/obj/
+**/libs/
+**/intermediates/
+**/.cxx/
+**/captures/
+.DS_Store
